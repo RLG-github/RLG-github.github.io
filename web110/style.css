@@ -1,12 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color: cadetblue;
 }
 h1 {
-  color: blue;
+  color: azure;
 }
 p {
-  color: blue;
+  color: azure;
 }
 p {
-  border: 2px solid powderblue;
+  border: 2px solid darkslategrey;
 }
