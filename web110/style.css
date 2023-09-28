@@ -3,10 +3,13 @@ body {
 }
 h1 {
   color: azure;
+  font-family: courier;
 }
 p {
   color: darkslategrey;
+  font-family: sans-serif;
 }
 p {
   border: 5px azure;
 }
+
