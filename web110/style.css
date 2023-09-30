@@ -28,6 +28,10 @@ p {
   text-align:center;
   padding: 35px;
 }
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
