@@ -8,6 +8,13 @@ h1 {
   text-align:center;
   border: 5px azure;
 }
+h2 {
+  color: azure;
+  font-family: courier;
+  font-size:40px;
+  text-align:center;
+  border: 5px azure;
+}
 h3 {
   color: azure;
   font-family: courier;
